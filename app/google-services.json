@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257927093700",
+    "firebase_url": "https://viber-b87b0.firebaseio.com",
+    "project_id": "viber-b87b0",
+    "storage_bucket": "viber-b87b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257927093700:android:2a2b30dad3786db09e5891",
+        "android_client_info": {
+          "package_name": "com.example.simpleviber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257927093700-t6q2rcgc9c3pom9f6bv2uij566rvknh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simpleviber",
+            "certificate_hash": "d8619406ea44ccc14e52ff4932ca9720fbde42e4"
+          }
+        },
+        {
+          "client_id": "257927093700-dk40ptep3vo8e5h4ll20s5arnd0miog7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbYIw3tXCp-whr__nHziHRopD29vFumnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257927093700-dk40ptep3vo8e5h4ll20s5arnd0miog7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
